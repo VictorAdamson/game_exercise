@@ -1,0 +1,6 @@
+@game_exercise_HostAddress = http://localhost:5197
+
+GET {{game_exercise_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
